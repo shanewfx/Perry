@@ -1,4 +1,4 @@
-baseurl: /perry
+baseurl: /
 auto: true
 permalink: /blog/:title
 pygments: true
