@@ -1,1 +1,3 @@
 baseurl: /perry
+markdown: rdiscount
+pygments: true
