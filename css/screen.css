@@ -9,7 +9,7 @@ html, body {
 
 body {
   background-color: white;
-  font: 16px SimHei, SimSun, helvetica, arial, sans-serif;
+  font: 18px SimHei, SimSun, helvetica, arial, sans-serif;
   text-align: center;
 }
 
@@ -19,7 +19,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-bottom: 1em;
-  font-color: #5858FA;
 }
 
 p {
