@@ -252,10 +252,6 @@ pre code {
   padding: 0;
   white-space: pre;
   border: none;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-color: white;
-  padding: 30px;
   background: transparent; }
 
 .highlight pre {
