@@ -8,20 +8,18 @@
   <meta name="CocoaVersion" content="1187">
   <style type="text/css">
     p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Hiragino Kaku Gothic ProN'}
     span.s1 {font: 12.0px 'Hiragino Kaku Gothic ProN'}
+    span.s2 {font: 12.0px Helvetica}
   </style>
 </head>
 <body>
 <p class="p1">---</p>
 <p class="p1">layout: default</p>
-<p class="p1">title: <span class="s1">我的</span>Blog</p>
+<p class="p1">title: <span class="s1">你好，世界</span></p>
 <p class="p1">---</p>
 <p class="p1"><span class="s1">　　</span>&lt;h2&gt;{{ page.title }}&lt;/h2&gt;</p>
-<p class="p1"><span class="s1">　　</span>&lt;p&gt;<span class="s1">最新文章</span>&lt;/p&gt;</p>
-<p class="p1"><span class="s1">　　</span>&lt;ul&gt;</p>
-<p class="p1"><span class="s1">　　　　</span>{% for post in site.posts %}</p>
-<p class="p1"><span class="s1">　　　　　　</span>&lt;li&gt;{{ post.date | date_to_string }} &lt;a href="{{ site.baseurl }}{{ post.url }}"&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;</p>
-<p class="p1"><span class="s1">　　　　</span>{% endfor %}</p>
-<p class="p1"><span class="s1">　　</span>&lt;/ul&gt;</p>
+<p class="p2">　　<span class="s2">&lt;p&gt;</span>我的第一篇文章<span class="s2">&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1">　　</span>&lt;p&gt;{{ page.date | date_to_string }}&lt;/p&gt;</p>
 </body>
 </html>
