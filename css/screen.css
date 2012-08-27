@@ -10,7 +10,6 @@ html, body {
 body {
   background-color: gainsboro;
   font: 13.34px YaHei, helvetica, arial, clean, sans-serif;
-  *font-size: medium;
   text-align: center;
 }
 
