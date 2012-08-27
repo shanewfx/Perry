@@ -24,7 +24,7 @@
 <body>
   <div class="page-container">
   	<header>
-  		<p>重新定向到<a href="{{ page.target }}"></a></p>
+  		<p>Redirecting to <a href="{{ page.target }}"></a></p>
   	</header>
 
 </body>
