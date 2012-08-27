@@ -251,7 +251,8 @@ pre code {
   margin: 0;
   padding: 0;
   white-space: pre;
-  border: 1px solid #eaeaea;
+  border: none;
+  padding: 30px;
   background: transparent; }
 
 .highlight pre {
