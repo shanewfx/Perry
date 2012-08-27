@@ -6,12 +6,12 @@ newstylesheet: "404"
 <article>
 
 	<header id="404">
-	  <h1>Aw heck. Wait.. no. Ah well.</h1>
-	  <p class="date">404 - Page not found</p>
+	  <h1>额，朋友。等等。。。不，是洞！</h1>
+	  <p class="date">404 - 网页无法找到</p>
 	</header>
 	
 	<section class="entry">
-	 Sorry about that, it seems there's something missing. If you would be so kind as to <a href="mailto:d@hop.ie" id="letmeknow">let me know</a> I'd be very grateful.
+	 对不起，由于某种原因，一些东西丢失了，如果你能<a href="dushunfan@mail.com" id="letmeknow">通知我</a>我会十分感谢。
 	 <br><br><br>
 	</section>
 	
