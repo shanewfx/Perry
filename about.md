@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 关于我
 ---
 * 1996年生，江苏张家港人，正在常青藤实验中学国际部学习
