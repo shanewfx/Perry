@@ -9,5 +9,7 @@
   <body>
     <h1>{{ page.title }}</h1>
     {{ content }}
+    <p>看看最新日志</p>
+<ul>{% for post in site.posts %}<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>{% endfor %}</ul>
   </body>
 </html>
