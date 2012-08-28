@@ -1,2 +1,4 @@
 permalink: /blog/:title
 markdown: rdiscount
+auto: true
+pygments: true
