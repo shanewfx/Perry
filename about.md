@@ -6,4 +6,4 @@ title: 关于我
 * 兴趣爱好：机器人，计算机技术，数学，游泳
 * 讨厌：毫无创新的模仿，整体不一的设计
 
-![Mou icon](http://pic.yupoo.com/perrydu/CdX6xK18/medium.jpg)
+![me](http://pic.yupoo.com/perrydu/CdX6xK18/medium.jpg)
