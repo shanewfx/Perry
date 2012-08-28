@@ -66,6 +66,8 @@ hr {
 }
 a.green:hover { color:#212121; background-color:#23af4c;text-decoration:none; 
 }
+.commentslink { margin-bottom: 35px;display:block;border-bottom:solid 1px #dadada;padding-bottom:25px; 
+}
 blockquote {
     padding: 13px 13px 21px 15px;
     margin-bottom: 18px;
