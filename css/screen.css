@@ -19,10 +19,6 @@ body {
 a {
     color: #0069d6;
 }
-a:hover {
-    color: #0050a3;
-    text-decoration: none;
-}
 a img {
     border: none;
 }
