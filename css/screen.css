@@ -248,11 +248,7 @@ code, tt {
   border-radius: 3px; }
 
 pre code {
-  margin: 0;
-  padding: 0;
-  white-space: pre;
-  border: none;
-  background: transparent; }
+  background: transparent; grey}
 
 .highlight pre {
   background-color: #f8f8f8;
