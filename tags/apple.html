@@ -3,4 +3,4 @@ layout: page
 title: 苹果
 ---
 <p>有关于苹果的日志</p>
-<ul>{% for post in site.tags.apple %}<li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}</ul>
+<ul>{% for post in site.tags.apple %}<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}" class="green">{{ post.title }}</a></li>{% endfor %}</ul>
