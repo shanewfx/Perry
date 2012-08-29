@@ -63,6 +63,8 @@ hr {
     border: 0;
     border-bottom: 1px solid #ccc;
 }
+.bshareDiv { text-align: right;
+}
 .green { color: #23af4c; 
 }
 .blue { color: #0383c9; 
