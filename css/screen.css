@@ -63,11 +63,11 @@ hr {
     border: 0;
     border-bottom: 1px solid #ccc;
 }
-.green { color: #23af4c; 
+.green { color: #219B45; 
 }
 .blue { color: #0383c9; 
 }
-a.green:hover { color:#212121; background-color:#23af4c;text-decoration:none; 
+a.green:hover { color:#212121; background-color:#219B45;text-decoration:none; 
 }
 a.blue:hover { color:#0383c9;  padding:1px; border: solid 2px #0383c9; text-decoration:none; 
 }
