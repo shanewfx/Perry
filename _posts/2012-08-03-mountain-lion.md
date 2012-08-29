@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 闲谈山狮：不是值不值的问题，是用的顺不顺手的问题
-categories: apple
+categories: experience
+tags: apple, software
 ---
 ![OS X Mountain Lion](http://pic.yupoo.com/perrydu/Ce52N0mM/ayXxJ.jpg)
 
