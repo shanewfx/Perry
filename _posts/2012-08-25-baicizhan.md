@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 囧记单词时代已过，超有爱科技推出新产品
-categories: internet
+categories: news
+tags: internet
 ---
 还记得当时手机上下载的囧记单词吗？开发囧记单词的超有爱科技最近推出了一个新的产品，叫做百词斩。
 
