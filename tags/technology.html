@@ -1,6 +1,0 @@
----
-layout: page
-title: 科技
----
-<p>有关于科技的日志</p>
-<ul>{% for post in site.tags.technology %}<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}" class="green">{{ post.title }}</a></li>{% endfor %}</ul>
