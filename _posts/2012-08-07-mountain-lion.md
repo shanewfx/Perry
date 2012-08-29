@@ -2,7 +2,7 @@
 layout: post
 title: 闲谈山狮：不是值不值的问题，是用的顺不顺手的问题
 ---
-![OS X Mountain Lion](http://pic.yupoo.com/perrydu/Ce4Wj5nZ/LsIwH.png)
+![OS X Mountain Lion](http://pic.yupoo.com/perrydu/Ce52N0mM/ayXxJ.jpg)
 
 7月25日，山狮出没，各大媒体众说纷纭，山狮系统的测试评析也瞬间在科技网站上登出。
 
