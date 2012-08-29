@@ -1,3 +1,2 @@
 permalink: /blog/:title
 markdown: rdiscount
-limit_posts: [8]
