@@ -2,7 +2,7 @@
 layout: page
 title: 标签
 ---
-<h2>苹果</h2>
+<h2 class="orange">苹果</h2>
 <ul>{% for post in site.tags.apple %}<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}" class="green">{{ post.title }}</a></li>{% endfor %}</ul>
 <h2>互联网</h2>
 <ul>{% for post in site.tags.internet %}<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}" class="green">{{ post.title }}</a></li>{% endfor %}</ul>
