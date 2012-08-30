@@ -5,5 +5,11 @@ title: 关于我
 * 1996年生，江苏张家港人，正在常青藤实验中学国际部学习
 * 兴趣爱好：机器人，计算机技术，数学，游泳
 * 讨厌：毫无创新的模仿，整体不一的设计
+* 性格：INTP
+* 联系方式：
+  * QQ：1785432631
+  * E-mail：dushunfan@mail.com（可iMessage）
+  * 微信：perry0513
+  * 豆瓣：愤鸟
 
 ![me](http://pic.yupoo.com/perrydu/CdX6xK18/medium.jpg)
