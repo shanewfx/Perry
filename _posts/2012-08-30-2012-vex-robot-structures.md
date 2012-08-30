@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VEX 2012年“夺垒奇兵”比赛机器人构造分析
-description:
+description: 2012年VEX更新了比赛场地和规则，和去年的比赛相对比，新场地取消了栅门的限制，更有利于产生激烈的竞争；而胜者大部分以得分物数量高而取胜，而不是以往的最后几秒黑白定胜负。为了适应新的场地，新的机器人又需要考虑什么呢？
 categories: experience
 tags: vex
 ---
