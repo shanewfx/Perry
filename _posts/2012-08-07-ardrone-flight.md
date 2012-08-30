@@ -20,4 +20,4 @@ tags: technology
 
 Ar.Drone 2广场试飞锦集（children没检查出来）：
 
-<embed src="http://player.youku.com/player.php/sid/XNDM2MjA3NjE2/v.swf" allowFullScreen="true" quality="high" width="748" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<embed src="http://player.youku.com/player.php/sid/XNDM2MjA3NjE2/v.swf" allowFullScreen="true" quality="high" width="760" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
