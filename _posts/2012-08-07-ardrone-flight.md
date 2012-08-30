@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ar.Drone 2广场试飞
+technology:今年暑假去美国的时候从飞机场上捎回了一架Ar.Drone 2，价值299刀，自己居然没买备用电池，这是之后最后悔的，所以打算过几天在淘宝上买。
 categories: experience
 tags: technology
 ---
