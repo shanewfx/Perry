@@ -10,13 +10,5 @@ title: 杜顺帆的个人博客
     <p>{{ post.date | date_to_string }}</p>
   </header>
     <section>{{ post.description }}</section>
-    <section>
-    <ul>
-      Filed under:
-      {% for tag in post.tags %}
-        <a href="{{ tag.url }}">{{ tag | capitalize }}</a>
-      {% endfor %}
-    </ul>
-    </section>
 </article>
 {% endfor %}
