@@ -4,25 +4,19 @@ title: 杜顺帆的个人博客
 ---
 <p>最新日志</p>
 {% for post in site.posts limit: 10  %}
-
-    <article>
-
-      <header>
-    	  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    	  <p>{{ post.date | date_to_string }}</p>
-    	</header>
-
-    	<section>{{ post.description }}</section>
-    	
-    	<section>
-    	  <ul>
-    	    Filed under:
-    	  {% for tag in post.tags %}
-    	    <a href="#">{{ tag | capitalize }}</a>
-    	  {% endfor %}
-    	  </ul>
-    	</section>
-
-    </article>
-
+<article>
+  <header>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p>{{ post.date | date_to_string }}</p>
+  </header>
+    <section>{{ post.description }}</section>
+    <section>
+    <ul>
+      Filed under:
+      {% for tag in post.tags %}
+        <a href="#">{{ tag | capitalize }}</a>
+      {% endfor %}
+    </ul>
+    </section>
+</article>
 {% endfor %}
