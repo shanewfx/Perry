@@ -3,8 +3,8 @@ layout: page
 title: 标签
 ---
 <h2 class="orange">思考</h2>
-<ul>{% for post in site.categories.thoughts %}<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}" class="green">{{ post.title }}</a></li>{% endfor %}</ul>
+<ul>{% for post in site.categories.thoughts %}<li><a href="{{ site.baseurl }}{{ post.url }}" class="green">{{ post.title }}</a></li>{% endfor %}</ul>
 <h2 class="orange">经历</h2>
-<ul>{% for post in site.categories.experience %}<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}" class="green">{{ post.title }}</a></li>{% endfor %}</ul>
+<ul>{% for post in site.categories.experience %}<li><a href="{{ site.baseurl }}{{ post.url }}" class="green">{{ post.title }}</a></li>{% endfor %}</ul>
 <h2 class="orange">新闻</h2>
-<ul>{% for post in site.categories.news %}<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}" class="green">{{ post.title }}</a></li>{% endfor %}</ul>
+<ul>{% for post in site.categories.news %}<li><a href="{{ site.baseurl }}{{ post.url }}" class="green">{{ post.title }}</a></li>{% endfor %}</ul>
