@@ -12,6 +12,9 @@ title: 关于我
   * 微信：perry0513
   * 豆瓣：愤鸟
 
-<script type="text/javascript" src="http://www.douban.com/service/badge/perrydu/?show=collection&amp;select=random&amp;n=20&amp;columns=10&amp;hidelogo=yes&amp;hideself=yes" ></script>
-
 ![me](http://pic.yupoo.com/perrydu/CdX6xK18/medium.jpg)
+
+## 我看过的一些电影：（随机）
+
+<script type="text/javascript" src="http://www.douban.com/service/badge/perrydu/?show=collection&amp;select=random&amp;n=20&amp;columns=10&amp;hidelogo=yes&amp;hideself=yes&amp;cat=movie" ></script>
+
