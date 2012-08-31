@@ -4,13 +4,13 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Dushunfan's blog</title>
+ <title>杜顺帆的个人博客</title>
  <link href="http://dushunfan.com/atom.xml" rel="self"/>
  <link href="http://dushunfan.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://dushunfan.com/</id>
  <author>
-   <name>Dushunfan</name>
+   <name>杜顺帆</name>
    <email>dushunfan@mail.com</email>
  </author>
 
