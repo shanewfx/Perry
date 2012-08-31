@@ -12,6 +12,6 @@ title: 关于我
   * 微信：perry0513
   * 豆瓣：愤鸟
 
-<script type="text/javascript" src="http://www.douban.com/service/badge/perrydu/?show=collection&amp;select=random&amp;n=20&amp;columns=7&amp;hidelogo=yes&amp;hideself=yes" ></script>
+<script type="text/javascript" src="http://www.douban.com/service/badge/perrydu/?show=collection&amp;select=random&amp;n=21&amp;columns=7&amp;hidelogo=yes&amp;hideself=yes" ></script>
 
 ![me](http://pic.yupoo.com/perrydu/CdX6xK18/medium.jpg)
