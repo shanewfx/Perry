@@ -8,7 +8,7 @@ description: 杜顺帆，爱好机器人，计算机技术，游泳。希望能�
 <article>
   <header>
     <h3><a href="{{ post.url }}" class="green">{{ post.title }}</a></h3>
-    <p>{{ post.date | date_to_string }}</p>
+    <p>{{ post.date | date:"%Y-%m-%d" }}</p>
   </header>
     <section>{{ post.description }}</section>
 </article>
@@ -17,6 +17,6 @@ description: 杜顺帆，爱好机器人，计算机技术，游泳。希望能�
 <h2>以往的日志</h2>
 <ul>
   {% for post in site.posts limit: 10 offset: 3 %}
-    <li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}" class="green">{{ post.title }}</a></li>
+    <li>{{ post.date | date:"%Y-%m-%d" }} <a href="{{ site.baseurl }}{{ post.url }}" class="green">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
