@@ -7,10 +7,13 @@ title: 关于我
 * 讨厌：毫无创新的模仿，整体不一的设计
 * 性格：INTP
 * 联系方式：
+  * facebook：Perry du/杜顺帆
   * QQ：1785432631
   * E-mail：dushunfan@mail.com（可iMessage）
   * 微信：perry0513
   * 豆瓣：愤鸟
+  * twitter：perry_du
+  * Quora：Du Shunfan
 
 ![me](http://pic.yupoo.com/perrydu/CdX6xK18/medium.jpg)
 
