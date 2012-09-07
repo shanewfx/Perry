@@ -4,10 +4,11 @@ title: 18分钟的棉花糖挑战
 description: 棉花糖挑战是一个非常流行的考验领导力和团队协作能力的挑战。
 categories: thoughts
 tags: 生活
+published: false
 ---
 
 棉花糖挑战是一个非常流行的考验领导力和团队协作能力的挑战：
-<object width="760" height="374">
+<object width="526" height="374">
 <param name="movie" value="http://video.ted.com/assets/player/swf/EmbedPlayer.swf"></param>
 <param name="allowFullScreen" value="true" />
 <param name="allowScriptAccess" value="always"/>
