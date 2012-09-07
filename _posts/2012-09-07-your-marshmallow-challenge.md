@@ -4,7 +4,6 @@ title: 18分钟的棉花糖挑战
 description: 棉花糖挑战是一个非常流行的考验领导力和团队协作能力的挑战。
 categories: thoughts
 tags: 生活
-published: false
 ---
 
 棉花糖挑战是一个非常流行的考验领导力和团队协作能力的挑战：
