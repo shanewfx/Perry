@@ -7,7 +7,7 @@ description: 杜顺帆，爱好机器人，计算机技术，游泳。希望能�
 {% for post in site.posts limit: 3  %}
   <h3><a href="{{ post.url }}" class="green">{{ post.title }}</a></h3>
   <p>{{ post.date | date:"%Y年%m月%d日" }}</p>
-  <p>{{ post.description }}</p> <a href="{{ post.url }}" class="orange">继续阅读</a>
+  <p>{{ post.description }} <a href="{{ post.url }}" class="orange">继续阅读</a></p> 
 {% endfor %}
 <br />
 <h2>以往的日志</h2>
