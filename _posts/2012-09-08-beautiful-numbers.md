@@ -19,15 +19,18 @@ tags: math
 
 ## 108
 
-1. 它是一个对称的数字：
+它是一个对称的数字：
+
 ![对称的108](http://pic.yupoo.com/perrydu/CfAdlKWs/6gHKv.jpg)
 
-2. 它是1的1次方乘以2的2次方乘以3的3次方的积
+它是1的1次方乘以2的2次方乘以3的3次方的积
 
-3. 数字1，0，8分别代表一个，无，一切（非数学说法）
+数字1，0，8分别代表一个，无，一切（非数学说法）
+
 ![108](http://pic.yupoo.com/perrydu/CfAdls4Y/rruOB.png)
 
-4. 它长得像扑克脸：
+它长得像扑克脸：
+
 ![扑克脸](http://pic.yupoo.com/perrydu/CfAhBzSa/small.jpg)
 
 ## 黄金比例 1.618
