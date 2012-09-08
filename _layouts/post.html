@@ -8,6 +8,7 @@
     <p><a href="/" class="blue">首页</a> <a href="/about.html" class="blue">关于我</a> <a href="/categories.html" class="blue">分类</a> <a href="/tags.html" class="blue">标签</a> <a href="/project.html" class="blue">项目</a> <a href="/place.html" class="blue">足迹</a> <a href="/board.html" class="blue">留言板</a> <a href="/links.html" class="blue">友链</a></p>
     <hr />
     <h1 class="green">{{ page.title }}</h1>
+    <p>{{ page.date | date:"%Y年%m月%d日" }}</p>
     <script type="text/javascript">
 
       var _gaq = _gaq || [];
@@ -22,8 +23,7 @@
 
     </script>
   </head>
-  <body> 
-    <p>{{ page.date | date:"%Y年%m月%d日" }}</p>
+  <body>
     {{ content }}
     <hr />
         <div id="disqus_thread"></div>
