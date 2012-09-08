@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 那些美丽的数字
 description: 数学，这个奇妙抽象的艺术，也孕育着许多美丽的数字。接下来我将介绍5个非常美丽的数字，他们分别是73，108，1.618，6，1729.
 categories: thoughts
