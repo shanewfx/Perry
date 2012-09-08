@@ -63,6 +63,14 @@ hr {
     border: 0;
     border-bottom: 3px solid #A9D0F5;
 }
+timeline {
+  font: 14px/22px normal helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+} 
 .green { color: #219B45;
 }
 .blue { color: #0383c9;
