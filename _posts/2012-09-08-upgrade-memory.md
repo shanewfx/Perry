@@ -22,3 +22,11 @@ published: false
 ![Micron 4GB内存条合照](http://pic.yupoo.com/perrydu/CfCtgQ87/NigjG.jpg)
 
 之所以购买淘宝上的Micron 4GB内存条而不是京东的Crucial是因为我从不在京东购物，注册什么的太麻烦，况且Crucial是Micron Technology的子公司，质量是一样的。
+
+记录一下原MacBook Pro的配置：
+
+![原MacBook硬件简介](http://pic.yupoo.com/perrydu/CfCxA2ee/10MS7J.jpg)
+
+![原MacBook硬件信息](http://pic.yupoo.com/perrydu/CfCxzBvn/custom.jpg)
+
+![原MacBook内存](http://pic.yupoo.com/perrydu/CfCxAlG4/13ZYym.jpg)
