@@ -95,11 +95,6 @@ blockquote p {
     margin-bottom: 0;
     font-style: italic;
 }
-.timeline {
-border-left:5px solid #DDD;
-margin:15px 30px 0 10px;
-padding-left:20px;
-} 
 code, pre {
     font-family: Monaco, Andale Mono, Courier New, monospace;
 }
