@@ -22,7 +22,7 @@ tags: hardware
 
 之所以购买淘宝上的Micron 4GB内存条而不是京东的Crucial是因为我从不在京东购物，注册什么的太麻烦，况且Crucial是Micron Technology的子公司，质量是一样的。
 
-工具：
+工具：麦哲伦精工防滑T6十字螺丝刀
 
 ![麦哲伦精工防滑T6十字螺丝刀](http://pic.yupoo.com/perrydu/CfDahC6U/xkm52.jpg)
 
