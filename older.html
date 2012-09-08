@@ -5,7 +5,7 @@ description: 杜顺帆，爱好机器人，计算机技术，游泳。希望能�
 ---
 <h2>以往的日志</h2>
 <ul>
-  {% for post in site.posts limit: 10 offset: 13 %}
+  {% for post in site.posts %}
     <li>{{ post.date | date:"%Y年%m月%d日" }} <a href="{{ post.url }}" class="green">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
