@@ -4,6 +4,7 @@ title: 那些美丽的数字
 description: 数学，这个奇妙抽象的艺术，也孕育着许多美丽的数字。接下来我将介绍5个非常美丽的数字，他们分别是73，108，1.618，6，1729.
 categories: thoughts
 tags: math
+published: false
 ---
 
 数学，这个奇妙抽象的艺术，也孕育着许多美丽的数字。接下来我将介绍5个非常美丽的数字，他们分别是73，108，1.618，6，1729.
@@ -34,7 +35,7 @@ tags: math
 
 ![扑克脸](http://pic.yupoo.com/perrydu/CfAhBzSa/small.jpg)
 
-## 黄金比例
+## 黄金比例 1.618
 
 ![黄金比例](http://pic.yupoo.com/perrydu/CfAbmdt3/5NtWR.jpg)
 
