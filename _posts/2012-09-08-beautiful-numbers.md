@@ -34,25 +34,32 @@ tags: math
 
 ![黄金比例](http://pic.yupoo.com/perrydu/CfAbmdt3/5NtWR.jpg)
 
-1. 苹果logo中的黄金比例：
+苹果logo中的黄金比例：
+
 ![苹果](http://pic.yupoo.com/perrydu/CfA5RweW/medium.jpg)
 
-2. iCloud logo中的黄金比例：
+iCloud logo中的黄金比例：
+
 ![iCloud](http://pic.yupoo.com/perrydu/CfA5P3rP/medium.jpg)
 
-3. 国家地理logo中的黄金比例：
+国家地理logo中的黄金比例：
+
 ![国家地理](http://pic.yupoo.com/perrydu/CfA5Qze1/medium.jpg)
 
-4. 丰田logo中的黄金比例：
+丰田logo中的黄金比例：
+
 ![丰田](http://pic.yupoo.com/perrydu/CfA5Pivh/medium.jpg)
 
-5. 英国石油公司logo中的黄金比例：
+英国石油公司logo中的黄金比例：
+
 ![英国石油公司](http://pic.yupoo.com/perrydu/CfA5Qd0w/medium.jpg)
 
-6. 百事logo中的黄金比例：
+百事logo中的黄金比例：
+
 ![百事](http://pic.yupoo.com/perrydu/CfA5RNBQ/medium.jpg)
 
-7. Grupo Boticário logo中的黄金比例：
+Grupo Boticário logo中的黄金比例：
+
 ![Grupo Boticário](http://pic.yupoo.com/perrydu/CfA5PYMz/medium.jpg)
 
 ## 6
