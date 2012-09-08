@@ -56,6 +56,10 @@ tags: hardware
 
 想买的可以找我，联系方式在左上角的“关于我”。
 
+升级后的内存：
+
+![8GB内存](http://pic.yupoo.com/perrydu/CfDmrLDM/IEOLZ.jpg)
+
 开机后一次点亮，速度稍微提升了一点（毕竟不是换SSD），这样跑Adobe和Parallel就可以顺畅一点了。
 
 
