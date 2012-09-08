@@ -5,7 +5,6 @@ description: 数学，这个奇妙抽象的艺术，也孕育着许多美丽的�
 categories: thoughts
 tags: math
 ---
-
 数学，这个奇妙抽象的艺术，也孕育着许多美丽的数字。接下来我将介绍5个非常美丽的数字，他们分别是73，108，1.618，6，1729.
 
 ## 73
@@ -21,17 +20,14 @@ tags: math
 ## 108
 
 1. 它是一个对称的数字：
-
 ![对称的108](http://pic.yupoo.com/perrydu/CfAdlKWs/6gHKv.jpg)
 
 2. 它是1的1次方乘以2的2次方乘以3的3次方的积
 
 3. 数字1，0，8分别代表一个，无，一切（非数学说法）
-
 ![108](http://pic.yupoo.com/perrydu/CfAdls4Y/rruOB.png)
 
 4. 它长得像扑克脸：
-
 ![扑克脸](http://pic.yupoo.com/perrydu/CfAhBzSa/small.jpg)
 
 ## 黄金比例 1.618
@@ -39,31 +35,24 @@ tags: math
 ![黄金比例](http://pic.yupoo.com/perrydu/CfAbmdt3/5NtWR.jpg)
 
 1. 苹果logo中的黄金比例：
-
 ![苹果](http://pic.yupoo.com/perrydu/CfA5RweW/medium.jpg)
 
 2. iCloud logo中的黄金比例：
-
 ![iCloud](http://pic.yupoo.com/perrydu/CfA5P3rP/medium.jpg)
 
 3. 国家地理logo中的黄金比例：
-
 ![国家地理](http://pic.yupoo.com/perrydu/CfA5Qze1/medium.jpg)
 
 4. 丰田logo中的黄金比例：
-
 ![丰田](http://pic.yupoo.com/perrydu/CfA5Pivh/medium.jpg)
 
 5. 英国石油公司logo中的黄金比例：
-
 ![英国石油公司](http://pic.yupoo.com/perrydu/CfA5Qd0w/medium.jpg)
 
 6. 百事logo中的黄金比例：
-
 ![百事](http://pic.yupoo.com/perrydu/CfA5RNBQ/medium.jpg)
 
 7. Grupo Boticário logo中的黄金比例：
-
 ![Grupo Boticário](http://pic.yupoo.com/perrydu/CfA5PYMz/medium.jpg)
 
 ## 6
