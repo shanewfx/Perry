@@ -63,7 +63,7 @@ hr {
     border: 0;
     border-bottom: 3px solid #A9D0F5;
 }
-timeline {
+.timeline {
   font: 14px/22px normal helvetica, sans-serif;
   margin-top: 10px;
   margin-bottom: 10px;
