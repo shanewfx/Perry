@@ -10,7 +10,7 @@
     <h1>{{ page.title }}</h1>
     <p><img src="http://pic.yupoo.com/perrydu/CfBo6bys/44JVv.jpg" alt="duke" /></p>
     <script>
-      var sHTML="<img src=\"/banner{N}.jpg\">"//插入图片的HTML代码模板
+      var sHTML="<img src=\"/banner/{N}.jpg\">"//插入图片的HTML代码模板
       document.write(sHTML.replace("{N}",Math.random()*7|0))
     </script>
     <script type="text/javascript">
