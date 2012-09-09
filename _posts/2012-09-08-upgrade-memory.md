@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 成功升级MacBook内存至8GB
+title: 成功将MacBook内存升级至8GB
 description: 因为Adobe和Parallel很占内存，所以计划好了开学升级内存。星期四晚上在淘宝购买了2个4GB内存条和狮子螺丝刀，星期六到的货。（内存条先到的，没螺丝刀的那段时间很饥渴啊～）
 categories: experience
 tags: hardware
