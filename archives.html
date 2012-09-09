@@ -8,3 +8,27 @@ description: 杜顺帆，爱好机器人，计算机技术，游泳。希望能�
   <p>{{ post.date | date:"%Y年%m月%d日" }}</p>
   <p>{{ post.description }} <a href="{{ post.url }}" class="orange">继续阅读</a></p> 
 {% endfor %}
+
+
+<table border="0" width="100%" cellpadding="10">
+<tr>
+
+<td width="50%" valign="top">
+{% for post in site.posts %}
+  <h3><a href="{{ post.url }}" class="green">{{ post.title }}</a></h3>
+  <p>{{ post.date | date:"%Y年%m月%d日" }}</p>
+  <p>{{ post.description }} <a href="{{ post.url }}" class="orange">继续阅读</a></p> 
+{% endfor %}
+</td>
+
+<td width="50%" valign="top">
+<h2 class="orange">思考</h2>
+<ul>{% for post in site.categories.thoughts %}<li><a href="{{ post.url }}" class="green">{{ post.title }}</a></li>{% endfor %}</ul>
+<h2 class="orange">经历</h2>
+<ul>{% for post in site.categories.experience %}<li><a href="{{ post.url }}" class="green">{{ post.title }}</a></li>{% endfor %}</ul>
+<h2 class="orange">新闻</h2>
+<ul>{% for post in site.categories.news %}<li><a href="{{ post.url }}" class="green">{{ post.title }}</a></li>{% endfor %}</ul>
+</td>
+
+</tr>
+</table>
