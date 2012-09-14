@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: post
 title: iPhone 越狱是什么意思？(转)
 description: 越狱在我身边同学的口中差不多就等同于使用免费的盗版软件，或者是打造个性的iPhone，但我却不知道其确切的意义，今天在知乎上看到了这个问题回答，生动得给我们解释了iOS越狱的含义。
 categories: thoughts
 tags: software apple
+published: false
 ---
 
 越狱在我身边同学的口中差不多就等同于使用免费的盗版软件，或者是打造个性的iPhone，但我却不知道其确切的意义，今天在知乎上看到了这个问题回答，生动得给我们解释了iOS越狱的含义。
